@@ -22,7 +22,6 @@ export const TransactionHistory = ({ items }) => {
           );
         })}
       </tbody>
-      ;
     </table>
   );
 };
