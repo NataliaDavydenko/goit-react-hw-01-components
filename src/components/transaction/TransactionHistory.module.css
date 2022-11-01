@@ -1,0 +1,28 @@
+.transactionHistory {
+  margin-top: 40px;
+  font-size: 14px;
+  border-collapse: unset;
+  border: 3px solid rgba(78, 80, 83, 0.603);
+}
+
+thead {
+  background-color: rgba(105, 186, 227, 0.753);
+}
+
+thead th {
+  width: 20%;
+}
+
+.title {
+  color: rgb(255, 255, 255);
+}
+
+th,
+td {
+  padding: 20px;
+  color: rgba(0, 0, 0, 0.664);
+}
+
+tbody tr:nth-child(2n) {
+  background-color: rgba(238, 236, 232, 0.858);
+}
